@@ -1,2 +1,2 @@
 # GithubIntro
-his is about github repo
+This is about github repo
